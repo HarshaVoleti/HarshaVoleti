@@ -7,13 +7,7 @@
 
 - 💼 Product Engineer with 2+ years of full-SDLC experience — backend (**C# .NET Core, REST APIs**) and frontend (**Vue.js, React.js, Next.js**)
 
-- 🚀 Running **Apps by Me LLC** with my brother, shipping mobile apps end to end
-
 - 📱 **LinkBox** — a Flutter productivity app I solo-built and shipped to 3,000+ users on iOS and Android, offline-first with real-time Firestore sync
-
-- 🤝 **Hanglet** — (Freelance project)a social hangout coordination app I solo-built (Flutter, Supabase, RLS)
-
-- ✍️ Staff writer & admin at **The Builders Index**, an AI-powered newsroom (Python/FastAPI, Next.js, pgvector RAG)
 
 - 🧠 Learning and building with **RAG pipelines, LLM agents, and Gen AI** — hands-on with the OpenAI API, vLLM, and pgvector
 
